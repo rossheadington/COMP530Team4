@@ -1,3 +1,4 @@
+#Percentage of delayed flights per month
 NoFlights <- c()
 NoDelays <- c()
 DelayPercentage <- c()
